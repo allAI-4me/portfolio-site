@@ -1,0 +1,15 @@
+{
+  "name": "Rumana Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "/portfolio-site/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0055a5",
+  "icons": [
+    {
+      "src": "/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
